@@ -1,7 +1,7 @@
 header,
 footer {
   background-color: orange;
-  overflow: hidden;
+  clear: both;
 }
 
 .logo {
